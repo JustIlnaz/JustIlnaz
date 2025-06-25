@@ -72,6 +72,17 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 ---
 
 #### ⚙️ DevOps & Tools
+<div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="git" alt="git" width="40" height="40"/> &nbsp
+  <img src="https://camo.githubusercontent.com/2a2fc7143d179f35592e81755dcb3cdfd04600864c267dbbf931804a39312fdf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c6b756265726e657465732c646f636b65722c632c76696d" title="Docker" alt="Docker" width="40" height="40"/> &nbsp
+
+ 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" title="figma" alt="figma" width="40" height="40"/> &nbsp
+</div>
+
+---
+
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="Kubernetes"/>
