@@ -24,7 +24,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 #### 🧠 Backend
 <p align="left">
-  <img src="https://p7.hiclipart.com/preview/929/60/54/net-framework-c-net-core-software-framework-mono-studio-thumbnail.jpg" height="50" alt="C#"/>
+  <img src=https://www.cdnlogo.com/logos/c/27/c.svg" height="50" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt=".NET"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="Go"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/>
