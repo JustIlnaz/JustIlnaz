@@ -1,105 +1,86 @@
+# 👋 Hi there, I'm **Ilnaz**
 
-# Hi there 👋, I'm Ilnaz
-
-### Backend Developer from Kazan
-
-I'm passionate about how technology transforms business.  
-Currently focused on C# and Go development.
-
-📍 Based in Kazan  
-📧 Contact: [ilnazikwork@gmail.com](mailto:ilnazikwork@gmail.com)
+## 💻 Backend Developer from Kazan
 
 ---
 
-
-## 💻 Tech Stack
-
-### 🔧 Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="MSSQL / SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka"/>
-</p>
-
-### 🖥 Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-</p>
-
-### ⚙️ DevOps / Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-</p>
+> _"Technology transforms business — I write the code that powers that transformation."_
 
 ---
 
-## 🎨 Creative Tools
+### 🔍 About Me
+
+I'm a backend developer with a passion for building scalable and maintainable systems.  
+Currently focused on **C#**, **.NET**, and **Go**. I love solving complex problems and turning ideas into reliable code.
+
+- 📍 **Based in:** Kazan, Russia  
+- 📚 **Learning:** Deep dive into high-load backend architecture  
+- 🧠 **Skills:** System design, REST APIs, distributed systems  
+- 📧 **Email:** [ilnazikwork@gmail.com](mailto:ilnazikwork@gmail.com)
+
+---
+
+### 🚀 Tech I'm Working With
+
+#### 🧠 Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" alt="Photoshop"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="After Effects"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" alt="Premiere Pro"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="Kafka"/>
+</p>
+
+#### 🎨 Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
+</p>
+
+#### ⚙️ DevOps & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustIlnaz&theme=tokyonight&show_icons=true&count_private=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JustIlnaz&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustIlnaz&theme=tokyonight&hide_border=true" height="180px"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustIlnaz&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustIlnaz&theme=tokyonight&layout=compact&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustIlnaz&theme=tokyonight&layout=compact&hide_border=true" height="140px"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+### 🌐 Connect with Me
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=JustIlnaz&theme=darkhub&no-frame=true&margin-w=8"/>
-</p>
-
----
-
-## 🧠 Top Contributions
-
-<p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=JustIlnaz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-## 🌐 Social
-
-<p align="left">
-  <a href="https://github.com/JustIlnaz">
+  <a href="https://github.com/JustIlnaz" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ilnazikwork@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## ✍️ Quote of the Day
+### ✍️ Quote of the Day
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> **“Code is like humor. When you have to explain it, it’s bad.”** — _Cory House_
 
 ---
 
 <p align="left">
   <img src="https://visitcount.itsvg.in/api?id=JustIlnaz&icon=0&color=0d1117" alt="Visitor Counter"/>
 </p>
-
-
-
