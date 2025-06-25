@@ -43,7 +43,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 ---
 
 
-#🚀 Tech I'm Working With
+# 🚀 Tech I'm Working With
 
 ## 🧠 Backend
 <p align="left">
