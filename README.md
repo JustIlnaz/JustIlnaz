@@ -37,7 +37,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email"/>
   </a>
     <a href="https://t.me/JustIlnaz" target="_blank" style="display: inline-block; vertical-align: middle; margin-left: 8px;">
-    <img>
+    <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" 
       alt="Telegram" 
       height="24" 
