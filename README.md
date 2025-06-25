@@ -129,6 +129,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 
 ### 📊 GitHub Stats
+<div align="center">
 <p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=JustIlnaz&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="180px"/>
@@ -137,8 +138,9 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustIlnaz&theme=tokyonight&layout=compact&hide_border=true" height="140px"/>
 
-</p>
 
+</p>
+</div>
 ---
 
 ## 🌐 Connect with Me
