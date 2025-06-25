@@ -45,7 +45,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 ### 🚀 Tech I'm Working With
 
-#### 🧠 Backend
+####  Backend
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" title="C#" alt="C#" width="40" height="40"/> &nbsp
@@ -73,7 +73,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 ---
 
-#### ⚙️ DevOps & Tools
+####  DevOps & Tools
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="git" alt="git" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/> &nbsp
@@ -86,7 +86,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 
 
-#### 🎨 Creative Tools
+#### Creative Tools
 <div>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" title="photoshop" alt="photoshop" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AfterEffects.svg" title="After Effects" alt="After Effects" width="40" height="40"/> &nbsp
@@ -99,7 +99,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 ---
 
-### OS:
+#### OS:
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" title="windows" alt="windows" width="40" height="40"/> &nbsp
