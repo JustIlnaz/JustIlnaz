@@ -90,7 +90,6 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 > **“Code is like humor. When you have to explain it, it’s bad.”** — _Cory House_
 
 ---
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
 
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=JustIlnaz&icon=0&color=0d1117" alt="Visitor Counter"/>
-</p>
+<br><br>
