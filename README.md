@@ -59,6 +59,9 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 </p>
 
 ---
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+<br><br>
 
 ### 📊 GitHub Stats
 
@@ -90,6 +93,4 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 > **“Code is like humor. When you have to explain it, it’s bad.”** — _Cory House_
 
 ---
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<br><br>
