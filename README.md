@@ -28,15 +28,13 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 
 ## 🌐 Connect with Me
-
 <p align="left">
-  <a href="mailto:ilnazikwork@gmail.com" style="height: 30px">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" height="30px" alt="Email"/>
+  <a href="mailto:ilnazikwork@gmail.com">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" height="30" width="30" alt="Email"/>
   </a>
-</p>
-  <p> 
-    <a href="https://t.me/JustIlnaz" style="height: 30px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" height="30px" alt="Tg"/>
+  &nbsp;&nbsp;
+  <a href="https://t.me/JustIlnaz">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" width="30" alt="Telegram"/>
   </a>
 </p>
 
