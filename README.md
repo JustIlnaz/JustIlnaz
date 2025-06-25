@@ -47,9 +47,6 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   
 </p>
 
----
-
-
 
 ---
 
