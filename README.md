@@ -109,16 +109,11 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 ---
 
 #### IDE and Code Editors:
-
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="vscode" alt="vscode" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/> &nbsp
   <img src="https://mosaic.ee/wp-content/uploads/2024/08/GoLand-icon.png" title="Goland" alt="Goland" width="40" height="40"/> &nbsp
-
-
-
 </div>
 
 
@@ -132,7 +127,6 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=JustIlnaz&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustIlnaz&theme=tokyonight&hide_border=true" height="180px"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustIlnaz&theme=tokyonight&layout=compact&hide_border=true" height="140px"/>
 </p>
 
