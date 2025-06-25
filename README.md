@@ -102,9 +102,9 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 ### OS:
 
 <div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Light.svg" title="windows" alt="windows" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" title="windows" alt="windows" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" title="linux" alt="linux" width="40" height="40"/> &nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/2048px-MacOS_logo.svg.png" title="macOS" alt="macOS" width="40" height="40"/> &nbsp
+  <img src="https://appstudio.org/wp-content/uploads/2020/11/MacOS_logo.svg" title="macOS" alt="macOS" width="40" height="40"/> &nbsp
   
 </div>
 
