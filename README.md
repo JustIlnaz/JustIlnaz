@@ -33,10 +33,12 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   <a href="mailto:ilnazikwork@gmail.com" style="height: 30px">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" height="30px" alt="Email"/>
   </a>
-  <p align="left">
-  <a href="https://t.me/JustIlnaz" style="height: 30px">
+</p>
+  <p> 
+    <a href="https://t.me/JustIlnaz" style="height: 30px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" height="30px" alt="Tg"/>
   </a>
+</p>
 
 
     
