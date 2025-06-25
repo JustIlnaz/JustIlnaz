@@ -32,7 +32,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 </p>
 
 ## 🌐 Connect with Me
-<div>
+<div style="display: flex">
 <p align="left">
   <a href="mailto:ilnazikwork@gmail.com" style="height: 30px">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" height="30px" alt="Email"/>
