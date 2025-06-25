@@ -46,6 +46,23 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 # 🚀 Tech I'm Working With
 
 ## 🧠 Backend
+
+<div>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" title="C#" alt="C#" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" title=".Net" alt=".Net" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GoLang.svg" title="Golang" alt="Go" width="40" height="40"/> &nbsp
+  <img src="https://files.svgcdn.io/devicon/blazor.svg" title="Blazor" alt="Blazor" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/> &nbsp
+  <img src="https://github.com/JustIlnaz/JustIlnaz/blob/main/Microsoft_SQL_Server_2025_icon.svg(1).png" title="SQL Server" alt="SQL Server" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg" title="Redis" alt="Redis" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kafka.svg" title="apachekafka" alt="apachekafka" width="40" height="40"/> &nbsp
+</div>
+
+---
+
+
+
+
 <p align="left">
   <img src="https://www.cdnlogo.com/logos/c/27/c.svg" height="50" alt="C#"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSafdP8RGehDthNkL8skbz6k0h940jBo73YXg&s" height="50" alt=".NET"/>
