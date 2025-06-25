@@ -37,6 +37,27 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   </a>
 </p>
 
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://github.com/JustIlnaz" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ilnazikwork@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email"/>
+  </a>
+    <a href="https://t.me/JustIlnaz" target="_blank" style="display: inline-block; vertical-align: middle; margin-left: 8px;">
+    <img>
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" 
+      alt="Telegram" 
+      height="24" 
+      style="vertical-align: middle;"
+    </a>
+    </a>
+  </a>
+</p>
+
+---
 
 
 
@@ -144,18 +165,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://github.com/JustIlnaz" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ilnazikwork@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email"/>
-  </a>
-</p>
 
----
 
 ### ✍️ Quote of the Day
 
