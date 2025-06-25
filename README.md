@@ -24,7 +24,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 - 📚 **Learning:** Deep dive into high-load backend architecture  
 - 🧠 **Skills:** System design, REST APIs, distributed systems  
 - 📧 **Email:** [ilnazikwork@gmail.com](mailto:ilnazikwork@gmail.com)
-- 💻 **Education** I am currently studying at the International Competence Center – Kazan College of Information Technology and Communications. Majoring in Information Systems and Programming. Qualification: Programmer. education
+- 💻 **Education:** I am currently studying at the International Competence Center – Kazan College of Information Technology and Communications. Majoring in Information Systems and Programming. Qualification: Programmer. 
 ---
 
 ### 🚀 Tech I'm Working With
