@@ -32,7 +32,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" 
       alt="Telegram" 
       height="28" 
-      style="vertical-align: middle; margin-left: 8px;"
+      style="vertical-align: middle; margin-left: 10px; margin:10px"
     />
   </a>
 </p>
