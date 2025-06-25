@@ -31,7 +31,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
     <img 
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" 
       alt="Telegram" 
-      height="24" 
+      height="28" 
       style="vertical-align: middle; margin-left: 8px;"
     />
   </a>
