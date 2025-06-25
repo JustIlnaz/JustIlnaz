@@ -25,7 +25,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 #### 🧠 Backend
 <p align="left">
   <img src="https://www.cdnlogo.com/logos/c/27/c.svg" height="50" alt="C#"/>
-  <img src="https://uxwing.com/microsoft-dot-net-icon/" height="50" alt=".NET"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSafdP8RGehDthNkL8skbz6k0h940jBo73YXg&s" height="50" alt=".NET"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="Go"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/>
   <img src="https://github.com/JustIlnaz/JustIlnaz/blob/main/Microsoft_SQL_Server_2025_icon.svg(1).png" height="50" alt="SQL Server"/>
