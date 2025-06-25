@@ -78,6 +78,8 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="git" alt="git" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/> &nbsp
+  
 </div>
 
 ---
@@ -91,10 +93,11 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Premiere.svg" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg" title="Blender" alt="Blender" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kubernetes.svg" title="Blender" alt="Blender" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kubernetes.svg" title="Figma" alt="Figma" width="40" height="40"/> &nbsp
+
   
 </div>
 
+---
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" alt="Photoshop"/>
