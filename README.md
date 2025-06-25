@@ -9,6 +9,8 @@ Currently deepening my skills in **C#** and **Go**.</h2>
 
 ---
 
+
+
 ## 🧠 Tech Stack
 
 ### Backend
@@ -86,5 +88,7 @@ Currently deepening my skills in **C#** and **Go**.</h2>
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+<!-- High-quality SVG icons for professional README -->
 
 
