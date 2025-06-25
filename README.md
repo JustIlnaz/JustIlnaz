@@ -31,6 +31,8 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   <img src="https://github.com/JustIlnaz/JustIlnaz/blob/main/Microsoft_SQL_Server_2025_icon.svg(1).png" height="50" alt="SQL Server"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="Kafka"/>
+  <img src="https://en.m.wikipedia.org/wiki/File:Blazor.png" height="50" alt="Blazor"/>
+  
 </p>
 
 #### 🎨 Frontend
