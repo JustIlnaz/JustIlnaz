@@ -61,25 +61,15 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 ---
 
 
-
-
-<p align="left">
-  <img src="https://www.cdnlogo.com/logos/c/27/c.svg" height="50" alt="C#"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSafdP8RGehDthNkL8skbz6k0h940jBo73YXg&s" height="50" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="Go"/>
-    <img src="https://files.svgcdn.io/devicon/blazor.svg" height="50" alt="Blazor"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/>
-  <img src="https://github.com/JustIlnaz/JustIlnaz/blob/main/Microsoft_SQL_Server_2025_icon.svg(1).png" height="50" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="Kafka"/>
-</p>
-
 ## 🎨 Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-</p>
+
+<div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="html5" alt="html5" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="css" alt="css" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="javascript" alt="javascript" width="40" height="40"/> &nbsp
+</div>
+
+---
 
 ## ⚙️ DevOps & Tools
 <p align="left">
