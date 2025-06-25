@@ -103,8 +103,8 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" title="windows" alt="windows" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" title="linux" alt="linux" width="40" height="40"/> &nbsp
-  <img src="https://appstudio.org/wp-content/uploads/2020/11/MacOS_logo.svg" title="macOS" alt="macOS" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="linux" alt="linux" width="40" height="40"/> &nbsp
+  <img src="https://e7.pngegg.com/pngimages/367/371/png-clipart-macos-apple-operating-systems-macos-logo-text-logo.png" title="macOS" alt="macOS" width="40" height="40"/> &nbsp
   
 </div>
 
