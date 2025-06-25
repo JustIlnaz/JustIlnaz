@@ -15,7 +15,7 @@
 
 ---
 
-### 🔍 About Me
+## 🔍 About Me
 
 I'm a backend developer with a passion for building scalable and maintainable systems.  
 Currently focused on **C#**, **.NET**, and **Go**. I love solving complex problems and turning ideas into reliable code.
@@ -43,7 +43,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 ---
 
 
-### 🚀 Tech I'm Working With
+#🚀 Tech I'm Working With
 
 ## 🧠 Backend
 <p align="left">
@@ -86,7 +86,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 <br><br>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=JustIlnaz&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="180px"/>
@@ -97,7 +97,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://github.com/JustIlnaz" target="_blank">
