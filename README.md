@@ -126,10 +126,9 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 
 
-<div >
+
 
 ### 📊 GitHub Stats
-</div>
 <div align="center">!
   [GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustIlnaz&theme=tokyonight&show_icons=true&count_private=true&hide_border=true)
 ![Streak]( https://github-readme-streak-stats.herokuapp.com/?user=JustIlnaz&theme=tokyonight&hide_border=true)
