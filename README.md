@@ -1,11 +1,13 @@
-<h1 align="center">Hi there 👋, I'm Ilnaz</h1>
-<h2 align="left">Backend Developer from Kazan</h2>
 
-<h2>I'm passionate about technology and how it transforms business.  
-Currently deepening my skills in **C#** and **Go**.</h2>
+---# Hi there 👋, I'm Ilnaz
+
+### Backend Developer from Kazan
+
+I'm passionate about how technology transforms business.  
+Currently focused on C# and Go development.
 
 📍 Based in Kazan  
-📧 Contact: [ilnazikwork@gmail.com](mailto:ilnazikwork@gmail.com)  
+📧 Contact: [ilnazikwork@gmail.com](mailto:ilnazikwork@gmail.com)
 
 ---
 
