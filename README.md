@@ -25,10 +25,15 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 - 🧠 **Skills:** System design, REST APIs, distributed systems  
 - 📧 **Email:** [ilnazikwork@gmail.com](mailto:ilnazikwork@gmail.com)
 - 💻 **Education:** I am currently studying at the International Competence Center – Kazan College of Information Technology and Communications. Majoring in Information Systems and Programming. Qualification: Programmer. 
-- **How to contact me:**  
-[![Telegram Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png)](https://t.me/JustIlnaz)
+- <p>How to contact me:</p>
 
-
+<a href="https://t.me/JustIlnaz" target="_blank">
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" 
+    alt="Telegram" 
+    height="20"
+  />
+</a>
 
 ---
 
