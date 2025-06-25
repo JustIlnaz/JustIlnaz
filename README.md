@@ -45,7 +45,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 ### 🚀 Tech I'm Working With
 
-#### 🧠 Backend
+## 🧠 Backend
 <p align="left">
   <img src="https://www.cdnlogo.com/logos/c/27/c.svg" height="50" alt="C#"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSafdP8RGehDthNkL8skbz6k0h940jBo73YXg&s" height="50" alt=".NET"/>
@@ -57,14 +57,14 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="Kafka"/>
 </p>
 
-#### 🎨 Frontend
+## 🎨 Frontend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
 </p>
 
-#### ⚙️ DevOps & Tools
+## ⚙️ DevOps & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="Kubernetes"/>
