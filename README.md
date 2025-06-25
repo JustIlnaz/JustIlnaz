@@ -43,9 +43,9 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 ---
 
 
-# 🚀 Tech I'm Working With
+### 🚀 Tech I'm Working With
 
-## 🧠 Backend
+#### 🧠 Backend
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" title="C#" alt="C#" width="40" height="40"/> &nbsp
@@ -61,7 +61,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 ---
 
 
-## 🎨 Frontend
+#### 🎨 Frontend
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="html5" alt="html5" width="40" height="40"/> &nbsp
@@ -71,7 +71,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 ---
 
-## ⚙️ DevOps & Tools
+#### ⚙️ DevOps & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="Kubernetes"/>
@@ -79,7 +79,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux"/>
 </p>
 
-## 🎨 Creative Tools
+#### 🎨 Creative Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" alt="Photoshop"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="After Effects"/>
