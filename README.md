@@ -28,15 +28,15 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 
 ## 🌐 Connect with Me
-<p align="left">
+<div style="display: flex; align-items: center; gap: 10px;">
   <a href="mailto:ilnazikwork@gmail.com">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" height="30" width="30" alt="Email"/>
   </a>
-  &nbsp;
   <a href="https://t.me/JustIlnaz">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" width="30" alt="Telegram"/>
   </a>
-</p>
+</div>
+
 
 
     
