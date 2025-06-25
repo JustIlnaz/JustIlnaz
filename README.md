@@ -56,6 +56,8 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   <img src="https://github.com/JustIlnaz/JustIlnaz/blob/main/Microsoft_SQL_Server_2025_icon.svg(1).png" title="SQL Server" alt="SQL Server" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg" title="Redis" alt="Redis" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kafka.svg" title="apachekafka" alt="apachekafka" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/> &nbsp
+  
 </div>
 
 ---
@@ -76,7 +78,6 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="git" alt="git" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/> &nbsp
-  
 </div>
 
 ---
@@ -84,6 +85,17 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 
 #### 🎨 Creative Tools
+<div>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" title="photoshop" alt="photoshop" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AfterEffects.svg" title="After Effects" alt="After Effects" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Premiere.svg" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg" title="Blender" alt="Blender" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kubernetes.svg" title="Blender" alt="Blender" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kubernetes.svg" title="Figma" alt="Figma" width="40" height="40"/> &nbsp
+  
+</div>
+
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" alt="Photoshop"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="After Effects"/>
