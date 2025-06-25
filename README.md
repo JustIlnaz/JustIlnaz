@@ -25,7 +25,10 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 - 🧠 **Skills:** System design, REST APIs, distributed systems  
 - 📧 **Email:** [ilnazikwork@gmail.com](mailto:ilnazikwork@gmail.com)
 - 💻 **Education:** I am currently studying at the International Competence Center – Kazan College of Information Technology and Communications. Majoring in Information Systems and Programming. Qualification: Programmer. 
+- How to contact me: [![Telegram Badge](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQ9p-BlfDMnNIAMqqrRHkNhdY76HmQVqxvg&s)](https://t.me/JustIlnaz)
+
 ---
+
 
 ### 🚀 Tech I'm Working With
 
@@ -39,8 +42,6 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   <img src="https://github.com/JustIlnaz/JustIlnaz/blob/main/Microsoft_SQL_Server_2025_icon.svg(1).png" height="50" alt="SQL Server"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="Kafka"/>
-
-  
 </p>
 
 #### 🎨 Frontend
