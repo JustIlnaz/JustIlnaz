@@ -92,7 +92,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AfterEffects.svg" title="After Effects" alt="After Effects" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Premiere.svg" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg" title="Blender" alt="Blender" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kubernetes.svg" title="Blender" alt="Blender" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="40" height="40"/> &nbsp
 
   
 </div>
