@@ -34,7 +34,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 ## 🌐 Connect with Me
 <p align="left">
   <a href="mailto:ilnazikwork@gmail.com" style="height: 30px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" height="40" alt="Email"/>
   </a>
     <a href="https://t.me/JustIlnaz" target="_blank" style="height: 30px, margin-left: 8px;">
     <img
