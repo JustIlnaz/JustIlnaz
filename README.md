@@ -49,7 +49,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GoLang.svg" title="Go" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" title="Python" width="30" />
   <img src="https://files.svgcdn.io/devicon/blazor.svg" title="Blazor" width="30" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" title="PostgreSQL" width="30" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg" title="Redis" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kafka.svg" title="Kafka" width="30" />
 </p>
