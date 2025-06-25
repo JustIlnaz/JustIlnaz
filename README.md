@@ -134,7 +134,6 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 ---
 
 ## 🌐 Connect with Me
-
 <p align="left">
   <a href="https://github.com/JustIlnaz" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
