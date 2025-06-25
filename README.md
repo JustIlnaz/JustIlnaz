@@ -28,12 +28,6 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 - <p>
   <span style="vertical-align: middle;">How to contact me:</span>
   <a href="https://t.me/JustIlnaz" target="_blank" style="display: inline-block; vertical-align: middle; margin-left: 8px;">
-    <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" 
-      alt="Telegram" 
-      height="24" 
-      style="vertical-align: middle;"
-    />
   </a>
 </p>
 
