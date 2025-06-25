@@ -126,7 +126,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 
 
-###📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustIlnaz&theme=tokyonight&show_icons=true&count_private=true&hide_border=true)
