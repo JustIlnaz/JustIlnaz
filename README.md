@@ -14,7 +14,7 @@
 
 ## 🔍 About Me
 
-I'm a backend developer with a passion for building scalable and maintainable systems.  
+### I'm a backend developer with a passion for building scalable and maintainable systems.  
 Currently focused on **C#**, **.NET**, and **Go**. I love solving complex problems and turning ideas into reliable code.
 
 - 📍 **Based in:** Kazan, Russia  
