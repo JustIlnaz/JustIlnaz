@@ -63,7 +63,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 ### 📱 Mobile Development
 <p>
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="HTML" width="30" />
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="Flutter" width="30" />
 </p>
 
 ### ⚙️ DevOps & Tools
@@ -72,6 +72,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" title="Docker" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kubernetes.svg" title="Kubernetes" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg" title="Notion" width="30" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" width="30" />
 </p>
 
 ### 🎬 Creative Tools
