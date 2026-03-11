@@ -61,10 +61,11 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" width="30" />
 </p>
 
-### 📱 Movile Development
+### 📱 Mobile Development
 <p>
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="HTML" width="30" />
 </p>
+
 ### ⚙️ DevOps & Tools
 <p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" width="30" />
@@ -114,6 +115,4 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 ---
 
-### ✍️ Quote of the Day
 
-> **“Code is like humor. When you have to explain it, it’s bad.”** — _Cory House_
