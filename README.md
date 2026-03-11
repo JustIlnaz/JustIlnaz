@@ -61,6 +61,10 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" width="30" />
 </p>
 
+### 📱 Movile Development
+<p>
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="HTML" width="30" />
+</p>
 ### ⚙️ DevOps & Tools
 <p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" width="30" />
