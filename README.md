@@ -6,28 +6,28 @@
 
 #  👋 Hi there, I'm **Ilnaz**
 
-## 💻 Backend Developer from Kazan
+##  Backend Developer from Kazan
 
 > _"Technology transforms business — I write the code that powers that transformation."_
 
 ---
 
-## 🔍 About Me
+##  About Me
 
 ### I'm a backend developer with a passion for building scalable and maintainable systems.  
 Currently focused on **C#**, **.NET**, and **Go**. I love solving complex problems and turning ideas into reliable code.
 
-- 📍 **Based in:** Kazan, Russia  
-- 📚 **Learning:** Deep dive into high-load backend architecture  
-- 🧠 **Skills:** System design, REST APIs, distributed systems  
-- 📧 **Email:** [ilnazikwork@gmail.com](mailto:ilnazikwork@gmail.com)  
-- 🎓 **Education:** Student at the International Competence Center – Kazan College of Information Technology and Communications  
+-  **Based in:** Kazan, Russia  
+-  **Learning:** Deep dive into high-load backend architecture  
+-  **Skills:** System design, REST APIs, distributed systems  
+-  **Email:** [ilnazikwork@gmail.com](mailto:ilnazikwork@gmail.com)  
+-  **Education:** Student at the International Competence Center – Kazan College of Information Technology and Communications  
   - **Major:** Information Systems and Programming  
   - **Qualification:** Programmer  
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="left">
   <a href="mailto:ilnazikwork@gmail.com">
@@ -40,9 +40,9 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
-### 🧩 Backend
+###  Backend
 <p>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" title="C#" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" title=".NET" width="30" />
@@ -54,19 +54,19 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kafka.svg" title="Kafka" width="30" />
 </p>
 
-### 🎨 Frontend
+###  Frontend
 <p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" width="30" />
 </p>
 
-### 📱 Mobile Development
+###  Mobile Development
 <p>
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="Flutter" width="30" />
 </p>
 
-### ⚙️ DevOps & Tools
+###  DevOps & Tools
 <p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" title="Docker" width="30" />
@@ -75,7 +75,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" width="30" />
 </p>
 
-### 🎬 Creative Tools
+###  Creative Tools
 <p>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" title="Photoshop" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AfterEffects.svg" title="After Effects" width="30" />
@@ -84,13 +84,13 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" title="Figma" width="30" />
 </p>
 
-### 💻 OS
+###  OS
 <p>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" title="Windows" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" width="30" />
 </p>
 
-### 🛠️ IDEs
+###  IDEs
 <p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VS Code" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" title="Visual Studio" width="30" />
@@ -106,7 +106,7 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JustIlnaz&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="150" />
