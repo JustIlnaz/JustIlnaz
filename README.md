@@ -69,7 +69,6 @@ Currently focused on **C#**, **.NET**, and **Go**. I love solving complex proble
 <p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" title="Docker" width="30" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kubernetes.svg" title="Kubernetes" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg" title="Notion" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" width="30" />
 </p>
